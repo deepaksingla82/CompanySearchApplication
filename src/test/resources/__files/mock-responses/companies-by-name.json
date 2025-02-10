@@ -1,0 +1,94 @@
+{
+  "page_number": 1,
+  "kind": "search#companies",
+  "total_results": 3,
+  "items": [
+    {
+      "company_status": "active",
+      "address_snippet": "Boswell Cottage Main Street, North Leverton, Retford, England, DN22 0AD",
+      "date_of_creation": "2008-02-11",
+      "matches": {
+        "title": [
+          1,
+          3
+        ]
+      },
+      "description": "06500244 - Incorporated on 11 February 2008",
+      "links": {
+        "self": "/company/06500244"
+      },
+      "company_number": "06500244",
+      "title": "BBC LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "Boswell Cottage Main Street",
+        "postal_code": "DN22 0AD",
+        "country": "England",
+        "locality": "Retford",
+        "address_line_1": "North Leverton"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "in-active",
+      "address_snippet": "Old Street, North Leverton, Retford, England, DN22 0AD",
+      "date_of_creation": "1998-02-09",
+      "matches": {
+        "title": [
+          1,
+          3
+        ]
+      },
+      "description": "01500299 - Incorporated on 09 February 1998",
+      "links": {
+        "self": "/company/01500299"
+      },
+      "company_number": "01500299",
+      "title": "BBC Entertainment LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "Old Street",
+        "postal_code": "DN22 0AD",
+        "country": "England",
+        "locality": "Retford",
+        "address_line_1": "North Leverton"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "5 Sky Building, Salford Quay, England, M50 3UB",
+      "date_of_creation": "2001-05-12",
+      "matches": {
+        "title": [
+          1,
+          3
+        ]
+      },
+      "description": "01799031 - Incorporated on 12 May 2001",
+      "links": {
+        "self": "/company/01799031"
+      },
+      "company_number": "01799031",
+      "title": "BBC News Limited",
+      "company_type": "ltd",
+      "address": {
+        "premises": "5 Sky Building",
+        "postal_code": "M50 3UB",
+        "country": "England",
+        "locality": "Salford Quay",
+        "address_line_1": "North Leverton"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    }
+  ]
+}

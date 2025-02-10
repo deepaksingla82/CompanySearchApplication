@@ -1,0 +1,83 @@
+{
+  "etag": "6dd2261e61776d79c2c50685145fac364e75e24e0150029901799031",
+  "links": {
+    "self": "/company/01799031/officers"
+  },
+  "kind": "officer-list",
+  "items_per_page": 35,
+  "items": [
+    {
+      "address": {
+        "premises": "The Leeming Building",
+        "postal_code": "LS2 7JF",
+        "country": "England",
+        "locality": "Leeds",
+        "address_line_1": "Vicar Lane"
+      },
+      "name": "ANTLES, Kerri",
+      "appointed_on": "2017-04-01",
+      "resigned_on": "2019-02-01",
+      "officer_role": "director",
+      "links": {
+        "officer": {
+          "appointments": "/officers/4R8_9bZ44w0_cRlrxoC-wRwaMiE/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1969
+      },
+      "occupation": "Finance And Accounting",
+      "country_of_residence": "United States",
+      "nationality": "American"
+    },
+    {
+      "address": {
+        "premises": "The Stamford Building",
+        "postal_code": "M23 4AF",
+        "country": "England",
+        "locality": "Manchester",
+        "address_line_1": "17 Princess Lane"
+      },
+      "name": "Anthony, Jackson",
+      "appointed_on": "2017-04-01",
+      "officer_role": "Secretary",
+      "links": {
+        "officer": {
+          "appointments": "/officers/4R8_9bZ44w0_cRlrxoC-wRwaMiE/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1972
+      },
+      "occupation": "Finance And Accounting",
+      "country_of_residence": "United Kingdom",
+      "nationality": "British"
+    },
+    {
+      "address": {
+        "premises": "The Babbage House",
+        "postal_code": "WA16 9EU",
+        "country": "England",
+        "locality": "Knutsford",
+        "address_line_1": "Radbroke Hall"
+      },
+      "name": "Kuldeep Singh",
+      "appointed_on": "2015-04-09",
+      "officer_role": "Managing Director",
+      "links": {
+        "officer": {
+          "appointments": "/officers/4R8_9bZ44w0_cRlrxoC-wRwaMiE/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 9,
+        "year": 1982
+      },
+      "occupation": "Account Manager",
+      "country_of_residence": "United Kingdom",
+      "nationality": "Indian"
+    }
+  ]
+}
